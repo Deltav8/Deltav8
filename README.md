@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi👋, I'm Mahendra Kumar Mahato
+
+---
+## About Me:
+- 👨‍💻 Cybersecurity Enthusiast
+- 👨‍💻 MERN STACK Web Developer
+- 💻 Favorite Tech Stack:
+
+---
+
+##
+
+### Languages:
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!--
 **Deltav8/Deltav8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
